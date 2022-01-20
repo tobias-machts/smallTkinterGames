@@ -113,7 +113,7 @@ class field():
         turn += 1
 
 
-
+#Creating the UI
 root = tk.Tk()
 
 root.resizable(False, False)
