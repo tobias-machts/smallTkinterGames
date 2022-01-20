@@ -61,9 +61,8 @@ class feld:
             item.button.configure(state="disabled")
 
 
-
+#createing the UI
 root = tk.Tk()
-#root.minsize(width=150, height=150)
 root.resizable(False, False)
 root.geometry("300x200")
 root.title("Tic-Tac-Toe")
